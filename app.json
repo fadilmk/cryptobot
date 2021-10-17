@@ -3,8 +3,8 @@
     "description": "crypto price alert bot to know the price of crypto coins",
     "keywords": ["telegram", "crypto", "bitcoin", "price", "bot", "open", "source"],
     "logo": "https://ibb.co/m6f2XsC",
-    "website": "https://github.com/m4mallu/inline-tube-mate",
-    "repository": "https://github.com/m4mallu/inline-tube-mate",
+    "website": "https://github.com/fadilmk/cryptobot",
+    "repository": "https://github.com/fadilmk/cryptobot",
     "env": {
           "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
           "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
